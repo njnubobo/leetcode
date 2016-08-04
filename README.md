@@ -1,2 +1,7 @@
-# leetcode
-1. [118](https://leetcode.com/problems/pascals-triangle/ "118") Pascal's Triangle
+# c++
+
+| No.                                      | Title             | Difficulty |
+| ---------------------------------------- | ----------------- | ---------- |
+| [118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy       |
+|                                          |                   |            |
+|                                          |                   |            |
