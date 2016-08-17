@@ -5,7 +5,7 @@
 | [118](https://leetcode.com/problems/pascals-triangle/) | Pascal's Triangle | Easy       | vector  |
 | [55](https://leetcode.com/problems/jump-game/)         | JumpGame          |   Medium   |   贪心算法   |    
 | [337](https://leetcode.com/problems/house-robber-iii/) | House Robber 3    |  Medium    |   Tree/DFS深度优先搜索|
-| [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked list | Easy | linked list|               
+| [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Delete Node in a Linked list | Easy | 链表|               
 | [147](https://leetcode.com/problems/insertion-sort-list/)  |Insertion Sort List | Medium | 链表插入 |
-
+| [257](https://leetcode.com/problems/binary-tree-paths/) | Binary Tree Paths | Easy | 二叉树递归 |
 
