@@ -9,4 +9,4 @@
 | [147](https://leetcode.com/problems/insertion-sort-list/)  |Insertion Sort List | Medium | 链表插入 |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | Binary Tree Paths | Easy | 二叉树递归 |
 | [232](https://leetcode.com/problems/implement-queue-using-stacks/)|Implement Queue using Stacks| Easy | 堆栈 |
-| [278](https://leetcode.com/problems/first-bad-version/?tab=Description) |First BadVersion | 二分法 , int 相加防止溢出 |
+| [278](https://leetcode.com/problems/first-bad-version/?tab=Description) | First BadVersion | easy | 二分法 , int 相加防止溢出 |
