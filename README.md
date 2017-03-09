@@ -11,3 +11,4 @@
 | [232](https://leetcode.com/problems/implement-queue-using-stacks/)|Implement Queue using Stacks| Easy | 堆栈 |
 | [278](https://leetcode.com/problems/first-bad-version/?tab=Description) | First BadVersion | easy | 二分法 , int 相加防止溢出 |
 | [2](https://leetcode.com/problems/add-two-numbers/?tab=Description) | Add Two Numbers | medium | 结构体指针 |
+| [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/?tab=Description)|Longest Substring Without Repeating Characters|medium|string操作|
