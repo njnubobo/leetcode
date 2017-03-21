@@ -12,3 +12,4 @@
 | [278](https://leetcode.com/problems/first-bad-version/?tab=Description) | First BadVersion | easy | 二分法 , int 相加防止溢出 |
 | [2](https://leetcode.com/problems/add-two-numbers/?tab=Description) | Add Two Numbers | medium | 结构体指针 |
 | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/?tab=Description)|Longest Substring Without Repeating Characters|medium|string操作|
+| [15](https://leetcode.com/problems/3sum/#/description)| 3Sum | medium | vector,找出和为0的三个数，先排序 |
